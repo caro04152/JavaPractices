@@ -1,0 +1,4 @@
+JavaPractices
+=============
+
+Some Java courseworks 
